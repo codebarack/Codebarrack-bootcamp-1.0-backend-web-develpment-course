@@ -1,0 +1,18 @@
+TupleIsThe
+
+#Build the board
+
+#build the logic
+    #check win
+        #check horizontal
+        #check vertical
+        #check diagonals
+    #check loss
+    #check draw
+
+
+#
+#
+#
+#
+#
